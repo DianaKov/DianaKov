@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; justify-content: center; align-items: center">
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto">
         <img height=150 src="https://github.com/DianaKov/HTML-CSS/blob/main/img/gif-funny-work.gif">
-       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=00&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&multiline=true&repeat=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&width=500&height=100&lines=Hi+there.+My+name+is+Diana.+;I'm+currently+learning+Full+Stack+Developer." alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=00&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&multiline=true&repeat=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&width=500&height=100&lines=Hi+there.+My+name+is+Diana.+;I'm+currently+learning+Full+Stack+Developer." alt="Typing SVG" /></a>
 </div>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=DianaKov&show_icons=true&count_private=true">
