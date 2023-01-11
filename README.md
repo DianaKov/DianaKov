@@ -1,6 +1,6 @@
+### Hi there 👋
 <!--
 **DianaKov/DianaKov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="margin-left: 150px">
-   <p> Hi there 👋</p>
+<div style="margin: 150px 30px">
    <img height=150 src="https://github.com/DianaKov/HTML-CSS/blob/main/img/gif-funny-work.gif">
 </div>
 <p align='center'>
