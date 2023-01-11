@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="margin-left: 50px">
+<div style="margin-left: 150px">
    <p> Hi there 👋</p>
    <img height=150 src="https://github.com/DianaKov/HTML-CSS/blob/main/img/gif-funny-work.gif">
 </div>
