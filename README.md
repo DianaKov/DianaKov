@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img src="https://github.com/DianaKov/HTML-CSS/blob/main/img/gif-funny-work.gif">
+
 <!--
 **DianaKov/DianaKov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
