@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img height=150 src="https://github.com/DianaKov/HTML-CSS/blob/main/img/gif-funny-work.gif">
 <p align='center'>
-   <img height=150 src="https://github.com/DianaKov/HTML-CSS/blob/main/img/gif-funny-work.gif">
    <a href="https://github-readme-stats.vercel.app/api?username=DianaKov&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=Dianakov&show_icons=true&count_private=true"/></a>
