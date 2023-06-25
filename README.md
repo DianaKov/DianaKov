@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+http://www.linkedin.com/in/dina-kov
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=00&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&multiline=true&repeat=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&width=1000&height=50&lines=Hi+there.+My+name+is+Diana.+I'm+currently+learning+Full+Stack+Developer." alt="Typing SVG" /></a>
 </div>
 <p align='center'>
